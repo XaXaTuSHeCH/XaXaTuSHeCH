@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  Hello World! :hand:
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+---
+
+<h1 align="center">
+  :fire: My Stats:
+</h1>
+<div align="center">
+ <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=XaXaTuSHeCH&theme=dark" />
+</div>
 <!--
-**XaXaTuSHeCH/XaXaTuSHeCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XaXaTuSHeCH&theme=dark" />
 -->
