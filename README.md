@@ -11,7 +11,7 @@
   :fire: My Stats:
 </h1>
 <div align="center">
- <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=XaXaTuSHeCH&theme=dark](https://github-readme-stats.vercel.app/api?username=XaXaTuSHeCH&show_icons=true&count_private=true)" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=XaXaTuSHeCH&show_icons=true&count_private=true)" />
 </div>
 
 <!--
